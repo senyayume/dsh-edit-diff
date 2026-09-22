@@ -1,0 +1,4 @@
+# 本插件的 profile 层：由 package.json 的 dsh.bundle.patch 指向，dsh plugin add 时自动挂载。
+- insert:
+    - id: edit-diff
+      name: dsh-edit-diff
